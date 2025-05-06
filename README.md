@@ -1,5 +1,4 @@
-
-# Segmentation des Clients Expresso Sénégal
+# Segmentation des Clients d'Expresso Sénégal avec PySpark et MLlib
 
 ## Objectif du projet
 
